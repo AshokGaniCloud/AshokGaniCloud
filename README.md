@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashokganicloud" alt="ashokganicloud" /></a> </p>
 
-- 🌱 I’m currently learning **DevSecOps Tools Also Some Core Java**
+- 🌱 I’m currently learning **DevSecOps Tools and Also Selenium Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshokGaniCloud/AshokGaniCloud](https://github.com/AshokGaniCloud/AshokGaniCloud)
 
